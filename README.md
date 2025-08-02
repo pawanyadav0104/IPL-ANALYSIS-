@@ -98,4 +98,4 @@ This project is a personal initiative for learning and demonstration. Data was m
 
 ---
 
-## ⭐ If you found this project interesting, feel free to give it a star!
+
