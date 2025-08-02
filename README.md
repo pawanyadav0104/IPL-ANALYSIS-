@@ -19,7 +19,7 @@ Everything is built around real-world data and visualized using custom DAX measu
 
 ### 🔹 Overall View
 
-![Dashboard View 1]()
+![Dashboard View 1](https://github.com/pawanyadav0104/IPL-ANALYSIS-/blob/main/dashboard%20image.png)
 
 ### 🔹 Dynamic Visuals with Images
 
