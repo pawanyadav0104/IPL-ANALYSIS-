@@ -20,11 +20,12 @@ Everything is built around real-world data and visualized using custom DAX measu
 
 ### 🔹 Overall View
 
-![Dashboard View 1](https://github.com/pawanyadav0104/IPL-ANALYSIS-/blob/main/dashboard%20image.png)
+![Dashboard View 1](https://raw.githubusercontent.com/pawanyadav0104/IPL-ANALYSIS-/main/dashboard%20image.png)
 
 ### 🔹 Dynamic Visuals with Images
 
-![Dashboard View 2](https://github.com/pawanyadav0104/IPL-ANALYSIS-/blob/main/Dashboard%20Image2.png)
+![Dashboard View 2](https://raw.githubusercontent.com/pawanyadav0104/IPL-ANALYSIS-/main/Dashboard%20Image2.png)
+
 
 ---
 
