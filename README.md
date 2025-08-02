@@ -8,6 +8,7 @@ The dashboard includes dynamic visuals like:
 - 🟣 **Purple Cap Holders (Top Bowlers)**
 - 📊 **Points Table**
 - 🖼️ Visuals with dynamic **images** for caps and team logos
+- 
 
 Everything is built around real-world data and visualized using custom DAX measures.
 
@@ -23,7 +24,7 @@ Everything is built around real-world data and visualized using custom DAX measu
 
 ### 🔹 Dynamic Visuals with Images
 
-![Dashboard View 2](dashboard_image2.png)
+![Dashboard View 2](https://github.com/pawanyadav0104/IPL-ANALYSIS-/blob/main/Dashboard%20Image2.png)
 
 ---
 
